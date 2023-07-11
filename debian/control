@@ -1,7 +1,7 @@
 Source: ros-foxy-clearbot-px4-msgs
 Section: misc
 Priority: optional
-Maintainer: Nuno Marques <nuno.marques@dronesolutions.io>
+Maintainer: clearbot <tech@clearbot.org>
 Build-Depends: debhelper (>= 9.0.0), ros-foxy-ament-cmake, ros-foxy-ament-lint-common <!nocheck>, ros-foxy-builtin-interfaces, ros-foxy-ros-environment, ros-foxy-rosidl-default-generators
 Homepage:
 Standards-Version: 3.9.2
